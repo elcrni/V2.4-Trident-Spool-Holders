@@ -2,6 +2,10 @@
 
 If you are building Voron 300mm2 or 350mm2, V2.4 or Trident, you will soon discover you need a large/deeper desk to accomodate your new machine, also if you have 5.5  or larger display mod you will end up with the printer being backed up against the wall and not enough space for the spool holder. After encountering the problem i've started messing with different designns that would provide stable, easily accessible place for the filament spool while keeping the filament path as short as possible.
 
+## Print
+
+All parts are printed without supports. Recommended material is ABS/ASA but PETG or even PLA can be used as well. Frame extrusions get hot during long prints under enclosure so be carefull with PLA. Recommended perimeter count is 4 and 5 top/bottom layers with infil from 20%+. All parts in STL already have correct orientation, just import and print.
+
 ### Versions:
 
 #### 1. Ball Bearing Version
