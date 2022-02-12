@@ -1,6 +1,6 @@
 ## Why?
 
-If you are building Voron 300mm2 or 350mm2, V2.4 or Trident, you will soon discover you need a large/deeper desk to accomodate your new machine, also if you have 5.5  or larger display mod you will end up with the printer being backed up against the wall and not enough space for the spool holder. After encountering the problem i've started messing with different designns that would provide stable, easily accessible place for the filament spool while keeping the filament path as short as possible.
+If you are building Voron 300mm2 or 350mm2, V2.4 or Trident, you will soon discover you need a larger/deeper desk to accomodate your new machine, also if you have 5.5  or larger display mod you will end up with the printer being backed up against the wall and not enough space for the spool holder. After encountering the problem i've started messing with different designns that would provide stable, easily accessible place for the filament spool while keeping the filament path as short as possible.
 
 ## Print
 
