@@ -18,3 +18,9 @@ This version uses 100mm x 8mm rod for spool core mounting. Provides very smooth 
 - 10 M5x10 BHCS
 - 4x M5x16 BHCS
 - 4x M5 Hex Nut
+
+![1](/Images/1.png)
+
+![2](/Images/2.png)
+
+![3](/Images/3.png)
