@@ -6,6 +6,10 @@ If you are building Voron 300mm2 or 350mm2, V2.4 or Trident, you will soon disco
 
 All parts are printed without supports. Recommended material is ABS/ASA but PETG or even PLA can be used as well. Frame extrusions get hot during long prints under enclosure so be carefull with PLA. Recommended perimeter count is 4 and 5 top/bottom layers with infil from 20%+. All parts in STL already have correct orientation, just import and print.
 
+STL File naming:
+- Classic__part_name.stl - Parts for Classic Voron spool holder design
+- BB__part_name.stl - Ball Bearing Version parts
+
 ### Versions:
 
 #### 1. Ball Bearing Version
