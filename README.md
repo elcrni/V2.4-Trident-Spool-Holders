@@ -31,6 +31,14 @@ This version uses classic Voron spool holder design adopted to fit the spool hol
 
 ##### Ball Bearing version - BOM
 
-- 10 M5x10 BHCS
+- 8 M5x10 BHCS
 - 4x M5x16 BHCS
-- 4x M5 Hex Nut
+- 5x M5 Hex Nut
+- 1x M5x30 BHCS
+- 2x 105mm PTFE (4mm OD)
+
+![4](/Images/4.png)
+
+![5](/Images/5.png)
+
+![6](/Images/6.png)
